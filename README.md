@@ -1,1 +1,1 @@
-# Kicckstarter-Anticipator
+# Kickstarter-Anticipator
